@@ -1,0 +1,14 @@
+{
+  "name": "coding-interview-questions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/duwonyi/coding-interview-questions.git",
+  "author": "doowon.lee <duwonyi@gmail.com> (https://github.com/duwonyi)",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^22.4.2"
+  }
+}
